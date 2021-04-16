@@ -1,0 +1,188 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.bangladesh{
+    height: 300px;
+    width: 500px;
+   background-color: green;
+    margin: 50px auto;
+    overflow: hidden;
+}
+.red{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 23px auto 0px;
+}
+
+
+.white{
+    height: 300px ;
+    width: 500px;
+    background-color:white;
+    margin: 50px auto;
+    overflow: hidden;
+    border: 1px solid black;
+   
+}
+.red{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 23px auto 0px;
+}
+
+
+.canada{
+    width: 250px;
+    height: 200px;
+    margin: 0px auto 0px ;
+    border-left: 138px solid red;
+    border-right: 138px solid red;
+    text-align: center;
+}
+.canada img{
+   width: 200px;
+}
+
+.denmark{
+    height: 250px;
+    width: 380px;
+    background-color: rgb(252, 69, 69);
+    margin: 0px auto 0px;
+    border: 1px solid black;
+
+}
+
+.german{
+    height: 100px;
+    width: 500px;
+    background-color: red;
+    margin: 50px auto;
+    border-top: 100px solid #000;
+    border-bottom: 100px solid yellow;
+}
+
+
+.lal{
+    height: 238px;
+    width: 216px;
+    background-color: rgb(241, 235, 235);
+    margin: 50px auto;
+    border-left: 147px solid blue;
+    border-right: 147px solid red ;
+}
+
+.coler{
+    height: 147px;
+    width: 500px;
+    background-color: #fff;
+    margin: 50px auto;
+    border-top: 147px solid red;
+    border-bottom: 147px solid #000;
+}
+
+
+
+.flag{
+    height:180px;
+    width: 500px;
+    background-color: rgb(28, 94, 218);
+    margin: 50px auto  ;
+ 
+}
+
+.left{
+   
+    height: 50px;
+    width: 500px;
+    background-color:yellow;
+    float: left;
+    margin: 50px auto  ;
+
+}
+
+.top{
+    height: 180px;
+    width: 500px;
+   border-left: 48px solid yellow;
+   margin: -150px auto  ;
+   margin-left: 60px;
+   overflow: hidden;
+    float: left;
+    
+}
+
+
+.lam{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(236, 231, 231);
+    margin: 50px auto;
+    border-top: 100px solid orange;
+    border-bottom: 100px solid green;
+    text-align: center;
+   
+}
+
+.lam img{
+    width: 100px;
+}
+
+.left{
+   
+    height: 50px;
+    width: 500px;
+    background-color:yellow;
+    float: left;
+    margin: 50px auto  ;
+
+}
+
+.top{
+    height: 180px;
+    width: 500px;
+   border-left: 48px solid yellow;
+   margin: -150px auto  ;
+   margin-left: 60px;
+   overflow: hidden;
+    float: left;
+    
+}
+
+
+
+.com{
+    height:180px;
+    width: 500px;
+    background-color: rgb(218, 28, 60);
+    margin: 50px auto  ;
+ 
+}
+
+.fick{
+   
+    height: 50px;
+    width: 500px;
+    background-color:white;
+    float: left;
+    margin: 50px auto  ;
+
+}
+
+.zel{
+    height: 180px;
+    width: 500px;
+   border-left: 48px solid white;
+   margin: -150px auto  ;
+   margin-left: 60px;
+   overflow: hidden;
+    float: left;
+    
+}
